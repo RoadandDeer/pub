@@ -15,7 +15,6 @@
 extern "C" {
 #endif
 
-void pri();
 
 /**
  * @brief	结果回调函数
